@@ -1,0 +1,1 @@
+# coronavirus_japan_only_json_data
